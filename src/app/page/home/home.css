@@ -1,0 +1,46 @@
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 50px 20px;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+
+.rows {
+  margin-bottom: 45px;
+  padding: 20px 10px;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+
+h1 {
+  font-size: 4rem;
+  font-weight: 800;
+  color: #3d2b1f;
+
+  margin-bottom: 18px;
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  text-shadow: 2px 3px 10px rgba(0,0,0,0.08);
+}
+
+
+p {
+  max-width: 760px;
+  margin: 0 auto;
+
+  font-size: 1.15rem;
+  line-height: 2;
+
+  color: #666;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+

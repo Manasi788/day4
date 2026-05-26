@@ -1,0 +1,25 @@
+
+.carouselExampleIndicators{
+    width: 95%;
+    max-width: 1400px;
+    margin: 30px auto;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+.carousel-inner{
+    border-radius: 30px;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 30px;
+}
+
+.carousel-indicators button{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}

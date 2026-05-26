@@ -1,0 +1,17 @@
+
+.form-box{
+    background: #f8f5f0;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+
+.form-control{
+    border-radius: 8px;
+    padding: 10px;
+}
+
+
+.btn-primary:hover{
+    background: #7a5a45;
+}
